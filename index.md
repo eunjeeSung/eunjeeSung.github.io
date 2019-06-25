@@ -2,8 +2,10 @@
 layout: index
 ---
 
+![image](/assets/images/profile2.png)
+
 <br>
-I am a junior PM and product researcher at [ClovaAI](https://clova.ai) 🍀. I turn coffee into AI/ML products that are feasible and usable.
+I am a junior PM and product researcher at [ClovaAI](https://clova.ai) 🍀. I turn coffee into AI/ML products that are feasible and usable.👩‍💻
 
 My research interests center around **human-AI interaction**. I am deeply interested in making AI interpretable and accessible, as well as promoting AI literacy. My research goal is to develop tools to help people better interact, utilize, and monitor the ML models. I employ a variety of methodologies and frameworks in my research, drawing on HCI and machine learning research.
 

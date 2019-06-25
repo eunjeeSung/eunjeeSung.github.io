@@ -5,7 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
 
-You can download pdf version here: CV [[pdf]](/assets/documents/)
+<!-- You can download pdf version here: CV [[pdf]](/assets/documents/) -->
 
 ### Education
 * **Seoul National University** (2013-2019)
@@ -43,21 +43,27 @@ You can download pdf version here: CV [[pdf]](/assets/documents/)
 * ***Eun Jee Sung***, Leem, Sungmook, Sungjin Lee, and Ilyoung Jin. "MAMAS: Mealtime Assistance to Improve Eating Behavior of Children Using Magnetometer and Speech Recognition." *In Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility*, pp. 483-485. ACM, 2018.
 
 ### Research Experience
-* Deep Learning Researcher, ModuLabs R&D Center (2019)
-	* To be updated
+* Deep Learning Researcher, ModuLabs R&D Center (2019-)
+	* Currently researching on video enhancement using video interpolation.
+	* Advising institute: [Pulse9](https://www.pulse9studio.com/)
+	* Tools: Cuda, PyTorch, Tensorflow, Javascript
 * Undergraduate Research Intern, [DxD Lab](http://hwajunghong.com/) (2018)
 	* Advisor: Professor Hwajung Hong
 	* Worked on MAMAS, mealtime assistant using magnetometer and speech recognition.
+	* Tools: Tensorflow, Swift
 * Undergraduate Research Program, [HCC Lab](http://hcc.snu.ac.kr/wordpress/) (2017)
 	* Advisor: Professor Bongwon Suh
 	* Conducted research on user experience using smart speakers.
+	* Tool: node.js
 * Undergraduate Research Intern, [hci+d Lab](http://hcid.snu.ac.kr/) (2016)
 	* Advisor: Professor Joonhwan Lee
-	* Designed and programmed experimental websites on Amazon Mechanical Turk. 
+	* Designed and programmed experimental websites on Amazon Mechanical Turk.
+	* Tools: flask, html, css, Javascript, jQuery
 
 ### Professional Experience
 * Junior Product Manager - Clova AI, Seoul, South Korea (2018-2019)
-	* To be updated
+	* Research, benchmark, and design AI/ML products
+	* Contributed to the concept of combined AI product integrating OCR, vision, NLP technology, which is now a main business strategy of Clova
 * ISC Lab Assistant - ISC Lab, Seoul, South Korea (2016-2018)
 	* Assisted student with programming and designing for course assignments
 	* Managed developer environments and lab facilities including 3D printers, Arduinos, etc.
