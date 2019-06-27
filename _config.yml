@@ -34,6 +34,9 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
+google_analytics: UA-142930745-1
+
+
 # Sidebar link settings
 # sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
