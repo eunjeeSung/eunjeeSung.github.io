@@ -38,7 +38,8 @@ sidebar_sort_order: 1
 * Merit Scholarship (2013, 2014, 2015, 2016)
 * Korean Small and Medium Business Administration STEM Start-up Funding ($10,000) (2014)
 
-### Publications
+### Publications (*Corresponding Author of All Papers)
+* Seri Lee, ***Eun Jee Sung***, Jieun Park, and Juhee Lee. "UGly-Net: Playful Exploration of U-Net for Glitch Effects." *NeurIPS 2019 Machine Learning for Creativity and Design Workshop.* Poster.
 * ***Eun Jee Sung***, Hyesung Chung, Keunwook Kim, Jooseung You. “Honk? Talk!: Designing Driver-to-Driver Communication Methods for Social Driving.” *In Proceedings of the International ACM SIGCHI Conference on Designing Interactive Systems*. ACM, 2019.
 * ***Eun Jee Sung***, Leem, Sungmook, Sungjin Lee, and Ilyoung Jin. "MAMAS: Mealtime Assistance to Improve Eating Behavior of Children Using Magnetometer and Speech Recognition." *In Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility*, pp. 483-485. ACM, 2018.
 
