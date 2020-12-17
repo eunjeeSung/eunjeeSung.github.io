@@ -43,8 +43,8 @@ body {
     font-weight: bold;
     font-size: $title-font-size; /*$large-font-size;*/
     text-decoration: $sidebar-decoration;
-    margin-top: 0.25rem;
-    margin-bottom: $heading-spacing;
+    margin-top: $heading-spacing-top;
+    margin-bottom: $heading-spacing-bottom;
 
     .back-arrow { margin-right: 0.5rem; }
   }
@@ -85,7 +85,7 @@ body {
 .container > header {
   color: $sidebar-title-color;
   background: transparent;
-  margin: ($heading-spacing - $section-spacing)
+  margin: ($heading-spacing-bottom - $section-spacing)
           $section-spacing
           $section-spacing;
 
@@ -193,7 +193,7 @@ body {
         color: inherit;
 
         &:last-child {
-          margin-bottom: $heading-spacing;
+          margin-bottom: $heading-spacing-bottom;
         }
       }
     }
