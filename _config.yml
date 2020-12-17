@@ -36,6 +36,8 @@ plugins:
 
 google_analytics: UA-142930745-1
 
+disqus:
+  shortname: ejsung
 
 # Sidebar link settings
 # sidebar_home_link:  true
