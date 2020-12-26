@@ -310,8 +310,10 @@ SOP라는 생소한 포맷을 접근하는 데 도움을 준 자료들을 정리
 - [풀브대장님 블로그의 모든 자료](https://yoursopcoach.tistory.com/)
 - [풀브대장님 SOP 자료](http://yoursopcoach.tistory.com/attachment/cfile7.uf@99F5EE33598AA421193BFE.pdf)
 - [Stanford 실제 어드미션과정 - Stanford TCAD](http://www-tcad.stanford.edu/~goojs/GUIDE/StanfordAdmission.htm)
-- 각 연구실 교수님/박사생 Research Statement: 혹시 관심 있는 교수님이 학교에 있다면, 그 교수님 개인 홈페이지와 연구실의 문장들을 유심히 살피는 게 큰 도움이 되는 것 같습니다. 저는 그걸 읽으면서 해당 도메인에서 어떤 단어들을 쓰고 그걸 어떻게 조금은 "추상화" 시켜 연구 목표로 표현하는지 많이 배웠습니다. Research Statement는 교수직을 얻는 데에도 필요하기 때문에, SOP에서 요구되는 희망찬 말로 쓰인 경우가 많은 것도 장점이었어요.
-- 온라인에 돌아다니는 MSCS SOP Sample: 질이 안 좋은 SOP도 많습니다. 하지만 개인적으로 일단 읽어보는 것 자체는 SOP라는 문서에 대해 이해하는 데 도움을 주었습니다.
+- [CMU Tips on Writing SOP](https://users.ece.cmu.edu/~mabdelm/statement-of-purpose-tips.html)
+- [CMU Tips on Writing Graduate School Essays](https://www.cmu.edu/gcc/handouts-and-resources/handouts/grad-app-sop.pdf)
+- 각 연구실 교수님/박사생 Research Statement: 관심 있는 교수님 개인 홈페이지와 연구실의 문장들을 유심히 살피는 게 큰 도움이 되었습니다. 해당 도메인에서 어떤 단어들을 쓰고 그걸 어떻게 조금은 "추상화" 시켜 연구 목표로 표현하는지 많이 배웠습니다. Research Statement는 교수직을 얻는 데에도 필요하기 때문에, SOP에서 요구되는 희망찬 말로 쓰인 경우가 많은 것도 장점이었어요 😂
+- 온라인에 돌아다니는 MSCS SOP Sample: 질이 안 좋은 SOP도 많지만 일단 읽어보는 것 자체는 SOP라는 문서에 대해 이해하는 데 도움을 주었던 것 같습니다.
 
 ---
 
